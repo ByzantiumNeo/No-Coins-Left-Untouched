@@ -1,4 +1,4 @@
-# No-Coins-Left-Untouched
+# No Coins Left Untouched
 ### An AH flipping mod capable of making up to 80% of your invested purse per hour.
 
 This mod scours the Auction House with blistering speed, and will pull up potential flips for you in chat!
